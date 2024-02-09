@@ -12,3 +12,4 @@ C:\Users\Yakubu\source\dotnet-course-code\HelloWorld\obj\Debug\net8.0\refint\Hel
 C:\Users\Yakubu\source\dotnet-course-code\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
 C:\Users\Yakubu\source\dotnet-course-code\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
 C:\Users\Yakubu\source\dotnet-course-code\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
+C:\Users\Yakubu\source\dotnet-course-code\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
